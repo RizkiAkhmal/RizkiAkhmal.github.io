@@ -290,7 +290,7 @@ nav {
     border-radius: 15px;
     object-fit: cover;
     box-shadow: 0px 0px 15px -3px rgba(29, 29, 29, 0, 5), 0px 10px 15px -3px rgba(29, 29, 29, 0, 5);
-    transition: transform 0.35 ease;
+    transition: transform 0.3s ease;
 }
 
 .img-project img:hover{
@@ -369,5 +369,5 @@ footer p {
     margin-top: 120px;
     }
 
-    
+
 }
